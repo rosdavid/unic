@@ -8,8 +8,6 @@ It consists of a dashboard to manage your agency and where you can invite your c
 
 ## Features
 
-- Light/dark mode toggle
-
 ## Future Features
 
 - Light/dark mode toggle
