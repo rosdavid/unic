@@ -31,7 +31,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="flex justify-center items-center flex-col gap-4 md:mt-20">
+      <section className="flex justify-center items-center flex-col gap-4 md:!mt-20 mt-[-60px]">
         <h2 className="text-4xl text-center">Choose what fits you right. It’s free!</h2>
         <p className="text-muted-foreground text-center">
           Our straighforward pricing plans are tailored to meet your need. If {" you're "} not <br />
